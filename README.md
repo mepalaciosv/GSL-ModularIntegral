@@ -10,8 +10,8 @@ in that order. The program was developed for the course 'High Performance Comput
 
 The expected output of the program is
 
-  result = 8.317880097928300742
-  exact result = 8.317880097928302519
-  estimated error = 0.000000000000152489
-  actual error = -0.000000000000001776
-  intervals = 4
+  1. result = 8.317880097928300742
+  2. exact result = 8.317880097928302519
+  3. estimated error = 0.000000000000152489
+  4. actual error = -0.000000000000001776
+  5. intervals = 4
